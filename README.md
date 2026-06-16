@@ -113,13 +113,8 @@ jazzvis_web/
     └── app.js             # d3.js controls
 ```
 
-## Citations
-```
-@inproceedings{bunks2022visualization,
-  title={Visualization of tonal harmony for jazz lead sheets},
-  booktitle={Eurovis 2022},
-  pages={109--113},
-  year={2022},
-  organization={Eindhoven, The Netherlands}
-}
-```
+## Citation
+Bunks, C., Weyde, T., Slingsby, A. & Wood, J. (2022). Visualization ofTonal Harmony for Jazz Lead Sheets. In: EuroVis 2022 - Short Papers. (pp. 109-113). The Eurographics Association: Eindhoven, The Netherlands. ISBN 978-3-03868-184-7 doi: 10.2312/evs20221102
+
+## Paper
+[Visualization of Tonal Harmony for Jazz Lead Sheets](https://openaccess.city.ac.uk/id/eprint/28140/1/Visualization_of_Harmonic_Structure%20Camera%20Ready%20Copy.pdf)
