@@ -112,3 +112,14 @@ jazzvis_web/
     ├── style.css
     └── app.js             # d3.js controls
 ```
+
+## Citations
+```
+@inproceedings{bunks2022visualization,
+  title={Visualization of tonal harmony for jazz lead sheets},
+  booktitle={Eurovis 2022},
+  pages={109--113},
+  year={2022},
+  organization={Eindhoven, The Netherlands}
+}
+```
