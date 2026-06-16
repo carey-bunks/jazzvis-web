@@ -1,0 +1,11 @@
+Title = Moonlight in Vermont Reharm
+ComposedBy = John Blackburn and Karl Suessdorf
+DBKeySig = Eb
+TimeSig = 4 4
+Bars = 26
+ Eb6 Eo7 | Fm9 E7#9 | Eb6 Eb6 Cm7 A7b5 | Ab13 Db7 |
+ Fm7 Bb7sus4 | Eb6 Eb6 Bb7sus4 Bb13 | Eb6 Eo7 | Fm7 E7#9 |
+ Eb6 Eb6 Cm7 A7b5 | Ab13 Db7 |  Fm7 Bb7sus4 | Eb6 |
+ Am7 Ab7b5 | GM7 Abo7 | Am7 D11b9 | GM6 | Bbm7 A7b5 | AbM7 F7b9 |
+ Bbm7 Eb13 | Cm7 Bb7alt | Eb6 Eo7 | Fm9 E7#9 |
+ Eb6 Eb6 Cm7 A7b5 | Ab13 Db9 | Fm7 Bb7sus4 | EbM7 |
