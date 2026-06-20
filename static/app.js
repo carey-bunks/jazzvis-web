@@ -503,7 +503,7 @@
         .then(r => r.json())
         .then(names => {
           allSongs = names;
-          const target = (selectName && names.includes(selectName)) ? selectName : names[0];
+          const target = (selectName && names.includes(selectName)) ? selectName : null;
           if (target) {
             songInput.value = target;
             state.song = target;
