@@ -1,4 +1,5 @@
 # JazzVis Web
+![Example](jazzvis_example.png)
 
 A small local web interface for [`JazzVis.py`](JazzVis.py), the jazz
 chord-progression visualizer. A narrow sidebar of d3.js-driven controls maps
